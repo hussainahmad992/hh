@@ -1,5 +1,5 @@
     1 public login class
     2 public static void main [string args[]
 {
-system.outprintln
+system.outprintln[string[] args]
 }
