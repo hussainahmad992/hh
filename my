@@ -1,0 +1,6 @@
+calss a
+public static void main
+{
+int = 0
+system.out.println(int=+i)
+}
